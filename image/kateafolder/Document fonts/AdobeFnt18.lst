@@ -1,0 +1,97 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ARTechni
+FamilyName:AR Techni
+StyleName:Regular
+MenuName:AR Techni
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:AR Techni
+WritingScript:Roman
+OutlineFileName:\AR Techni_1.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:30564
+FileModTime:1369516262
+NameArray:0,Mac,4,AR Techni
+NameArray:0,Win,1,AR Techni
+NameArray:0,Win,1,AR Techni
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Beacon
+FamilyName:Beacon
+StyleName:Script
+MenuName:Beacon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Beacon
+WritingScript:Roman
+OutlineFileName:\beacon_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:48860
+FileModTime:1450454260
+NameArray:0,Mac,18,Beacon
+NameArray:0,Mac,4,Beacon
+NameArray:0,Win,1,Beacon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Biko-Bold
+FamilyName:Biko
+StyleName:Bold
+MenuName:Biko
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Biko Bold
+WritingScript:Roman
+OutlineFileName:\Biko_Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:52724
+FileModTime:1365525294
+NameArray:0,Mac,4,Biko Bold
+NameArray:0,Win,1,Biko
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Biko
+FamilyName:Biko
+StyleName:Regular
+MenuName:Biko
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Biko
+WritingScript:Roman
+OutlineFileName:\Biko_Regular_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:44796
+FileModTime:1365474338
+NameArray:0,Mac,4,Biko
+NameArray:0,Win,1,Biko
+%EndFont
+

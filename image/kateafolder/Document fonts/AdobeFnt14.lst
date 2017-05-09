@@ -1,0 +1,83 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ARTechni
+FamilyName:AR Techni
+StyleName:Regular
+FullName:AR Techni
+MenuName:AR Techni
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\abc3\Desktop\Katea Flyer Folder\Document fonts\AR Techni_1.ttf
+DataFormat:sfntData
+FileLength:30564
+FileModTime:1369541462
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Beacon
+FamilyName:Beacon
+StyleName:Script
+FullName:Beacon
+MenuName:Beacon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\abc3\Desktop\Katea Flyer Folder\Document fonts\beacon_0.ttf
+DataFormat:sfntData
+FileLength:48860
+FileModTime:1450486660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Biko-Bold
+FamilyName:Biko
+StyleName:Bold
+FullName:Biko Bold
+MenuName:Biko
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\abc3\Desktop\Katea Flyer Folder\Document fonts\Biko_Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:52724
+FileModTime:1365550494
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Biko
+FamilyName:Biko
+StyleName:Regular
+FullName:Biko
+MenuName:Biko
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\abc3\Desktop\Katea Flyer Folder\Document fonts\Biko_Regular_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:44796
+FileModTime:1365499538
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
